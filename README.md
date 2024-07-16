@@ -14,14 +14,14 @@ The model is a Linear Regression model trained on the California housing dataset
 
 The dataset used for training is the California housing dataset, which includes the following features:
 
-MedInc: Median income in block group
-HouseAge: Median house age in block group
-AveRooms: Average number of rooms per household
-AveBedrms: Average number of bedrooms per household
-Population: Block group population
-AveOccup: Average number of household members
-Latitude: Block group latitude
-Longitude: Block group longitude
+1. MedInc: Median income in block group
+2. HouseAge: Median house age in block group
+3. AveRooms: Average number of rooms per household
+4. AveBedrms: Average number of bedrooms per household
+5. Population: Block group population
+6. AveOccup: Average number of household members
+7. Latitude: Block group latitude
+8. Longitude: Block group longitude
 
 ## Model Performance
 
