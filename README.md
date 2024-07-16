@@ -4,10 +4,7 @@ This project contains code for training a machine learning model to predict hous
 
 ## Project Structure
 
-- `house_prices_predictor_model.pkl`: The trained machine learning model saved as a pickle file.
 - `model_training.ipynb`: Jupyter Notebook containing the code for training the model.
-- `.gitignore`: Git ignore file to exclude unnecessary files from the repository.
-- `README.md`: This readme file.
 
 ## Model Details
 
@@ -24,7 +21,7 @@ The dataset used for training is the California housing dataset, which includes 
 - `NOX`: Nitric oxides concentration (parts per 10 million).
 - `RM`: Average number of rooms per dwelling.
 - `AGE`: Proportion of owner-occupied units built prior to 1940.
-- `DIS`: Weighted distances to five Boston employment centres.
+- `DIS`: Weighted distances to five Boston employment centers.
 - `RAD`: Index of accessibility to radial highways.
 - `TAX`: Full-value property tax rate per $10,000.
 - `PTRATIO`: Pupil-teacher ratio by town.
@@ -40,15 +37,5 @@ The dataset used for training is the California housing dataset, which includes 
 
 ### Prerequisites
 
-- Python 3.7+
-- Scikit-learn
-- Pandas
-- NumPy
-
-### Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/house-prices-prediction-model.git
-   cd house-prices-prediction-model
+- Open this collab notebook simply using Google collab. 
 
