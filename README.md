@@ -1,6 +1,6 @@
 # House Prices Prediction Model
 
-This project contains code for training a machine learning model to predict house prices using the California housing dataset. The model is a Linear Regression model implemented using Scikit-learn.
+This project contains code for training a machine learning model to predict house prices using the California housing dataset. The model is a Linear Regression model implemented using Python's Scikit-learn library.
 
 ## Project Structure
 
